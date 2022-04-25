@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @felixreynoso
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning TensorFlow  
 - 📫 How to reach me instagram.com/felixreynosob
 
 <!---
