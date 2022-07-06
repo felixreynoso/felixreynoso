@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felixreynoso
-- 👀 I’m interested in Data Science & Machine Learning
+- 👀 I work with full-stack web dev, and data analysis. 
 - 📫 How to reach me instagram.com/felixreynosob
 
 <!---
